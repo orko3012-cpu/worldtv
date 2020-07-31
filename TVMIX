@@ -139,21 +139,21 @@ https://dbmtv.vedge.infomaniak.com/livecast/smil:dbmtv.smil/manifest.m3u8
 https://emcifr-i.akamaihd.net/hls/live/577363/emcifr/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/EH24utk.jpg" group-title="News",Euronews English
 http://210.210.155.35/session/dff6d9c0-7b79-11e8-810e-c81f66f89318/qwr9ew/s/s15/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/E38ZhCz.jpg" group-title="Fashion",Fashion TV L'Original
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/E38ZhCz.jpg" group-title="Fashion",Fashion TV L'Original 1
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg16_d9y_27042_ftv_pg16_194_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/E38ZhCz.jpg" group-title="Fashion",Fashion TV L'Original
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/E38ZhCz.jpg" group-title="Fashion",Fashion TV L'Original 2
 https://a.jsrdn.com/broadcast/ftv2_1/-0800/c.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/E38ZhCz.jpg" group-title="Fashion",Fashion TV L'Original
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/E38ZhCz.jpg" group-title="Fashion",Fashion TV L'Original 3
 https://a.jsrdn.com/broadcast/ftv2_2/-0800/c.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/auHH1Ig.png" group-title="Fashion",Fashion TV Midnite Secrets
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/auHH1Ig.png" group-title="Fashion",Fashion TV Midnite Secrets 1
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/auHH1Ig.png" group-title="Fashion",Fashion TV Midnite Secrets
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/auHH1Ig.png" group-title="Fashion",Fashion TV Midnite Secrets 2
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/media.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/auHH1Ig.png" group-title="Fashion",Fashion TV Midnite Secrets
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/auHH1Ig.png" group-title="Fashion",Fashion TV Midnite Secrets 3
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/auHH1Ig.png" group-title="Fashion",Fashion TV Midnite Secrets
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/auHH1Ig.png" group-title="Fashion",Fashion TV Midnite Secrets 4
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/auHH1Ig.png" group-title="Fashion",Fashion TV Midnite Secrets
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/auHH1Ig.png" group-title="Fashion",Fashion TV Midnite Secrets 5
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/yvNu4Rm.png" group-title="Fashion",Fashion TV Paris1
 http://bit.ly/2zOVkbF
